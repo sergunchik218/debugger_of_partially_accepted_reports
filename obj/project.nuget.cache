@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "Maia/RvCLK+5sVmqlPcA66kd4XDfneWzTfd1cRzkZn9fqzVQQ7mlxd7tW/tJpAgL7Zta5/rERpxTK48LRa0HnQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\sergey.markevich\\source\\repos\\XDoc_text1\\XDoc_text1\\XDoc_text1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\sergey.markevich\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\sergey.markevich\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.10\\microsoft.netcore.app.host.win-x64.3.1.10.nupkg.sha512"
+  ],
+  "logs": []
+}

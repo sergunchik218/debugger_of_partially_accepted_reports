@@ -1,0 +1,16 @@
+C:\Users\sergey.markevich\source\repos\XDoc_text1\XDoc_text1\bin\Debug\netcoreapp3.1\XDoc_text1.exe
+C:\Users\sergey.markevich\source\repos\XDoc_text1\XDoc_text1\bin\Debug\netcoreapp3.1\XDoc_text1.deps.json
+C:\Users\sergey.markevich\source\repos\XDoc_text1\XDoc_text1\bin\Debug\netcoreapp3.1\XDoc_text1.runtimeconfig.json
+C:\Users\sergey.markevich\source\repos\XDoc_text1\XDoc_text1\bin\Debug\netcoreapp3.1\XDoc_text1.runtimeconfig.dev.json
+C:\Users\sergey.markevich\source\repos\XDoc_text1\XDoc_text1\bin\Debug\netcoreapp3.1\XDoc_text1.dll
+C:\Users\sergey.markevich\source\repos\XDoc_text1\XDoc_text1\bin\Debug\netcoreapp3.1\XDoc_text1.pdb
+C:\Users\sergey.markevich\source\repos\XDoc_text1\XDoc_text1\obj\Debug\netcoreapp3.1\XDoc_text1.csprojAssemblyReference.cache
+C:\Users\sergey.markevich\source\repos\XDoc_text1\XDoc_text1\obj\Debug\netcoreapp3.1\XDoc_text1.Form1.resources
+C:\Users\sergey.markevich\source\repos\XDoc_text1\XDoc_text1\obj\Debug\netcoreapp3.1\XDoc_text1.csproj.GenerateResource.cache
+C:\Users\sergey.markevich\source\repos\XDoc_text1\XDoc_text1\obj\Debug\netcoreapp3.1\XDoc_text1.AssemblyInfoInputs.cache
+C:\Users\sergey.markevich\source\repos\XDoc_text1\XDoc_text1\obj\Debug\netcoreapp3.1\XDoc_text1.AssemblyInfo.cs
+C:\Users\sergey.markevich\source\repos\XDoc_text1\XDoc_text1\obj\Debug\netcoreapp3.1\XDoc_text1.csproj.CoreCompileInputs.cache
+C:\Users\sergey.markevich\source\repos\XDoc_text1\XDoc_text1\obj\Debug\netcoreapp3.1\XDoc_text1.dll
+C:\Users\sergey.markevich\source\repos\XDoc_text1\XDoc_text1\obj\Debug\netcoreapp3.1\XDoc_text1.pdb
+C:\Users\sergey.markevich\source\repos\XDoc_text1\XDoc_text1\obj\Debug\netcoreapp3.1\XDoc_text1.genruntimeconfig.cache
+C:\Users\sergey.markevich\source\repos\XDoc_text1\XDoc_text1\obj\Debug\netcoreapp3.1\XDoc_text1.Properties.Resources.resources
